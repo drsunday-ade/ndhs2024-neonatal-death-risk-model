@@ -54,3 +54,60 @@ The extended model incorporated maternal sociodemographic variables plus a presp
 ├── tables/
 ├── ndhs2024_neonatal_dashboard_pipeline.R
 └── README.md
+Reproducibility
+
+The main analysis script is:
+
+ndhs2024_neonatal_dashboard_pipeline.R
+
+To reproduce the analysis:
+
+Obtain access to the NDHS 2024 birth recode through The DHS Program.
+Place the approved source dataset in your local working directory.
+Update file paths in the R script as needed.
+Run the pipeline to regenerate analytic tables, model outputs, and figures.
+Data availability
+
+The raw NDHS 2024 individual-level data are not redistributed in this repository. Data access must be requested directly from The DHS Program in accordance with their data-use policies.
+
+Interpretation
+
+This repository supports a programmatic neonatal risk-stratification framework for Nigeria. The model is intended for population-level surveillance, policy planning, and quality improvement, not yet for stand-alone individual bedside decision-making. External validation is still required.
+
+Cite this work
+Preferred manuscript citation
+
+Adetunji SA, Oyewusi RO. Survey-weighted neonatal death risk stratification in Nigeria using the 2024 Demographic and Health Survey: a nationally representative cross-sectional prediction study with internal validation. Unpublished manuscript. 2026.
+
+Software / repository citation
+
+Adetunji SA, Oyewusi RO. ndhs2024-neonatal-death-risk-model [GitHub repository]. 2026. Available at:
+https://github.com/drsunday-ade/ndhs2024-neonatal-death-risk-model
+
+BibTeX
+@misc{adetunji2026ndhsneonatalrepo,
+  author       = {Adetunji, Sunday A. and Oyewusi, Rhoda O.},
+  title        = {ndhs2024-neonatal-death-risk-model},
+  year         = {2026},
+  publisher    = {GitHub},
+  howpublished = {\url{https://github.com/drsunday-ade/ndhs2024-neonatal-death-risk-model}},
+  note         = {Repository for: Survey-weighted neonatal death risk stratification in Nigeria using the 2024 Demographic and Health Survey: a nationally representative cross-sectional prediction study with internal validation}
+}
+
+@unpublished{adetunji2026ndhsneonatalmanuscript,
+  author = {Adetunji, Sunday A. and Oyewusi, Rhoda O.},
+  title  = {Survey-weighted neonatal death risk stratification in Nigeria using the 2024 Demographic and Health Survey: a nationally representative cross-sectional prediction study with internal validation},
+  year   = {2026},
+  note   = {Unpublished manuscript}
+}
+Contact
+
+For questions about the analysis, collaboration, or reproducibility, contact:
+
+Sunday A. Adetunji, MD, MPH
+adetunjs@oregonstate.edu
+
+
+This version is aligned with your manuscript’s title, design, sample size, principal findings, and interpretation. :contentReference[oaicite:0]{index=0} :contentReference[oaicite:1]{index=1}
+
+Best final upgrade: mint a **Zenodo DOI** for the GitHub release and replace the GitHub-only citation with the DOI-based citation.
