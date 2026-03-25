@@ -98,7 +98,7 @@ BibTeX
   author = {Adetunji, Sunday A. and Oyewusi, Rhoda O.},
   title  = {Survey-weighted neonatal death risk stratification in Nigeria using the 2024 Demographic and Health Survey: a nationally representative cross-sectional prediction study with internal validation},
   year   = {2026},
-  note   = {Unpublished manuscript}
+  note   = {under-peer-review/Springer Maternal and Childhealth Journal}
 }
 Contact
 
