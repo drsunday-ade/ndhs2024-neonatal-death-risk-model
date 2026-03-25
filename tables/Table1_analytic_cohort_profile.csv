@@ -1,0 +1,51 @@
+characteristic,level,weighted_n,weighted_pct
+Maternal age,20-34 years,43575.1,40.7%
+Maternal age,<20 years,1083.7,1.0%
+Maternal age,35+ years,62417.1,58.3%
+Maternal education,secondary,28614.2,26.7%
+Maternal education,no education,53663.1,50.1%
+Maternal education,primary,15539.1,14.5%
+Maternal education,higher,9259.4,8.6%
+Household wealth,middle,22011.2,20.6%
+Household wealth,poorest,25155.1,23.5%
+Household wealth,poorer,24061.9,22.5%
+Household wealth,richer,19640.5,18.3%
+Household wealth,richest,16207.3,15.1%
+Residence,urban,43054,40.2%
+Residence,rural,64021.9,59.8%
+Parity,Parity 2-3,22277.8,20.8%
+Parity,Primiparous (1 birth),4278.1,4.0%
+Parity,Parity 4-5,31245.4,29.2%
+Parity,Parity 6+,49274.6,46.0%
+Maternal body mass index,Healthy BMI (18.5-24.9),22799.3,21.3%
+Maternal body mass index,Underweight (<18.5),4995.2,4.7%
+Maternal body mass index,Overweight (25.0-29.9),7310.2,6.8%
+Maternal body mass index,Obesity (>=30.0),4222.2,3.9%
+Maternal body mass index,Missing,67749,63.3%
+Birth weight,2.5-3.9 kg,2879.4,2.7%
+Birth weight,Low birth weight (<2.5 kg),288.3,0.3%
+Birth weight,>=4.0 kg,12190.2,11.4%
+Birth weight,Missing,91718,85.7%
+Plurality,Singleton,103665.5,96.8%
+Plurality,Multiple gestation,3410.4,3.2%
+Mode of delivery,No caesarean delivery,15677.1,14.6%
+Mode of delivery,Caesarean delivery,875.9,0.8%
+Mode of delivery,Missing,90522.9,84.5%
+Skilled birth attendance,No skilled birth attendance,8369.9,7.8%
+Skilled birth attendance,Skilled birth attendance,8183.1,7.6%
+Skilled birth attendance,Missing,90522.9,84.5%
+Place of delivery,Non-facility delivery,11524.1,10.8%
+Place of delivery,Facility delivery,5028.9,4.7%
+Place of delivery,Missing,90522.9,84.5%
+Immediate skin-to-skin contact,No skin-to-skin contact,11663.9,10.9%
+Immediate skin-to-skin contact,Missing,95412,89.1%
+Breastfeeding counselling,No breastfeeding counselling,11468.3,10.7%
+Breastfeeding counselling,Breastfeeding counselling,3063,2.9%
+Breastfeeding counselling,Missing,92544.6,86.4%
+Observed breastfeeding,Breastfeeding not observed,11845.9,11.1%
+Observed breastfeeding,Breastfeeding observed,2714.2,2.5%
+Observed breastfeeding,Missing,92515.8,86.4%
+Duration of pregnancy,9 months,103701.9,96.8%
+Duration of pregnancy,<=8 months,1007.5,0.9%
+Duration of pregnancy,>=10 months / other,2366.4,2.2%
+Preceding birth interval,>=60 months,107075.9,100.0%

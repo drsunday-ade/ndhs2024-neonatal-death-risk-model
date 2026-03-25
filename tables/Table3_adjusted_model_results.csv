@@ -1,0 +1,50 @@
+model,term,adjusted_or,p_value
+Baseline model,Maternal age: <20 years,2.24 (1.61 to 3.13),<0.001
+Baseline model,Maternal age: 35+ years,0.70 (0.62 to 0.78),<0.001
+Baseline model,Education: no education,0.98 (0.82 to 1.16),0.792
+Baseline model,Education: primary,0.93 (0.79 to 1.09),0.354
+Baseline model,Education: higher,0.91 (0.72 to 1.15),0.425
+Baseline model,Wealth: poorest,1.04 (0.85 to 1.29),0.685
+Baseline model,Wealth: poorer,1.13 (0.95 to 1.36),0.178
+Baseline model,Wealth: richer,1.15 (0.97 to 1.35),0.098
+Baseline model,Wealth: richest,1.25 (1.03 to 1.52),0.026
+Baseline model,Residence: rural,1.25 (1.08 to 1.45),0.003
+Baseline model,Parity: Primiparous (1 birth),0.90 (0.70 to 1.16),0.433
+Baseline model,Parity: Parity 4-5,1.10 (0.96 to 1.26),0.184
+Baseline model,Parity: Parity 6+,1.80 (1.57 to 2.07),<0.001
+Baseline model,BMI: Underweight (<18.5),0.83 (0.66 to 1.03),0.096
+Baseline model,BMI: Overweight (25.0-29.9),1.24 (1.03 to 1.50),0.027
+Baseline model,BMI: Obesity (>=30.0),1.23 (0.94 to 1.61),0.129
+Baseline model,BMI: Missing,0.97 (0.86 to 1.09),0.630
+Extended model,Maternal age: <20 years,1.97 (1.39 to 2.79),<0.001
+Extended model,Maternal age: 35+ years,0.73 (0.65 to 0.82),<0.001
+Extended model,Education: no education,1.06 (0.89 to 1.27),0.518
+Extended model,Education: primary,0.96 (0.82 to 1.13),0.632
+Extended model,Education: higher,0.86 (0.68 to 1.08),0.203
+Extended model,Wealth: poorest,1.09 (0.88 to 1.36),0.411
+Extended model,Wealth: poorer,1.16 (0.97 to 1.39),0.108
+Extended model,Wealth: richer,1.14 (0.96 to 1.35),0.125
+Extended model,Wealth: richest,1.33 (1.08 to 1.62),0.006
+Extended model,Residence: rural,1.26 (1.09 to 1.47),0.002
+Extended model,Parity: Primiparous (1 birth),1.13 (0.87 to 1.46),0.365
+Extended model,Parity: Parity 4-5,1.07 (0.92 to 1.23),0.379
+Extended model,Parity: Parity 6+,1.67 (1.45 to 1.93),<0.001
+Extended model,BMI: Underweight (<18.5),0.86 (0.68 to 1.09),0.214
+Extended model,BMI: Overweight (25.0-29.9),1.26 (1.04 to 1.53),0.018
+Extended model,BMI: Obesity (>=30.0),1.27 (0.97 to 1.67),0.086
+Extended model,BMI: Missing,0.98 (0.87 to 1.10),0.731
+Extended model,Birth weight: Low birth weight (<2.5 kg),0.64 (0.20 to 2.00),0.443
+Extended model,Birth weight: >=4.0 kg,3.13 (2.05 to 4.78),<0.001
+Extended model,Birth weight: Missing,2.28 (1.42 to 3.68),<0.001
+Extended model,Plurality: Multiple gestation,3.93 (3.31 to 4.67),<0.001
+Extended model,Mode of delivery: Caesarean delivery,0.99 (0.57 to 1.71),0.969
+Extended model,Mode of delivery: Missing,0.69 (0.43 to 1.10),0.121
+Extended model,Skilled attendance: Skilled birth attendance,1.81 (1.36 to 2.41),<0.001
+Extended model,Place of delivery: Facility delivery,1.50 (1.10 to 2.05),0.012
+Extended model,Skin-to-skin: Missing,1.00 (0.73 to 1.37),0.986
+Extended model,Breastfeeding counselling: Breastfeeding counselling,0.29 (0.12 to 0.69),0.005
+Extended model,Breastfeeding counselling: Missing,0.56 (0.33 to 0.95),0.031
+Extended model,Observed breastfeeding: Breastfeeding observed,1.10 (0.43 to 2.82),0.842
+Extended model,Observed breastfeeding: Missing,4.50 (2.61 to 7.77),<0.001
+Extended model,Duration of pregnancy: <=8 months,10.07 (7.99 to 12.69),<0.001
+Extended model,Duration of pregnancy: >=10 months / other,1.05 (0.75 to 1.47),0.765

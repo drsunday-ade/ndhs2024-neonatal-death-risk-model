@@ -1,0 +1,4 @@
+risk_tier,weighted_n,predicted_risk_pct,observed_rate_per_1000,observed_ci95_per_1000
+Low predicted risk,32147.51365,1.7%,17.4,15.6 to 19.1
+Intermediate predicted risk,35531.090664,2.9%,27.6,25.2 to 30.0
+High predicted risk,39397.322910999996,5.9%,59.9,55.7 to 64.1

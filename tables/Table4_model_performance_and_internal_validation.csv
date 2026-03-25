@@ -1,0 +1,3 @@
+model,apparent_auc,optimism_corrected_auc,apparent_brier,optimism_corrected_brier,calibration_intercept,calibration_slope,successful_bootstrap_replicates,primary_block_wald_p
+Baseline model,0.607,0.599,0.0349,0.0352,-0.000,1.000,80,
+Extended model,0.679,0.672,0.0337,0.0340,-0.000,1.000,80,<0.001
